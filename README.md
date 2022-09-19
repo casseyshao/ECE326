@@ -1,1 +1,1 @@
-# ECE326
+# ECE326 Programming Languages
